@@ -1,0 +1,9 @@
+@media screen {
+  .md-nav__item--section>.md-nav__link[for] {
+    color: black;
+  }
+}
+
+.md-nav__title {
+  color: black
+}
